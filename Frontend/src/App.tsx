@@ -10,10 +10,8 @@ import Suppliers from "./pages/Suppliers/suppliers";
 import Users from "./pages/Users/user";
 import Stock from "./pages/Stock/stock";
 import PurchaseInvoices from "./pages/PurchaseInvoices/purchaseinvoices";
-import SalesInvoices from "./pages/SalesInvoicse/salesInvoice";
 import Reports from "./pages/Reports/reports";
 import SalesInvoice from "./pages/SalesInvoicse/salesInvoice";
-import { Warehouse } from "lucide-react";
 
 function App() {
   return (
